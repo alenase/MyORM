@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="MyORM" />
+        <module name="Kh041Java_ORM_Team1" />
+        <module name="SimpleORM" />
       </profile>
     </annotationProcessing>
   </component>
